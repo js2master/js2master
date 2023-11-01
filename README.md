@@ -1,3 +1,4 @@
+### Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=js2master&show_icons=true&theme=merko"
